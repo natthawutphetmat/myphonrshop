@@ -26,7 +26,6 @@ export default function RootLayout({ children }) {
         <meta name="keywords" content="มือถือ, สมาร์ทโฟน, ร้านขายมือถือ, ราคามือถือ, สั่งซื้อมือถือออนไลน์, ผ่อนมือถือ"/>
         <meta property="og:title" content="PG-V9 | PG-Phoneโทรศัพท์มือถือราคาถูกที่สุด" />
         <meta property="og:description" content="PG-V9 | PG-Phoneโทรศัพท์มือถือราคาถูกที่สุด สมาร์ทโฟนรุ่นใหม่ล่าสุดPG-V9 PRO ความกว้างหน้าจอ6นิ้ว ความละเอียดหน้าจอHD"/>
-        <meta property="og:image" content="/img/phone-1.jpg"/>
         <meta name="robots" content="index, follow" />
         <meta property="og:type" content="website" />
 
@@ -35,13 +34,7 @@ export default function RootLayout({ children }) {
         <meta property="og:image:type" content="image/jpeg"/>
         <meta property="og:image:height" content="2000"/>
         <meta property="og:image:width" content="2000"/>
-        <meta property="og:image" content="/img/phone-1.jpg"/>
-
-
-
-
-
-
+        <meta property="og:image" content="https://www.mypgphone.com/img/phone-1.jpg"/>
 
         <Script
           strategy="afterInteractive"
